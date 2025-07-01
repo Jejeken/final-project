@@ -5,7 +5,7 @@
 Sistem AI untuk prediksi risiko penyakit paru yang menggabungkan analisis citra X-Ray dengan data kualitas udara real-time. Menggunakan dual model AI (ResNet + Logistic Regression) dengan bobot 85% untuk faktor lingkungan dan 15% untuk model ML tradisional.
 
 **Proyek Akhir**: Big Data dalam Bidang Medis
-
+**Link Video Yotube** : https://youtu.be/1-W6jM2MEQE
 ## ✨ Fitur Utama
 
 - **🔍 Klasifikasi X-Ray**: ResNet model untuk deteksi Normal/COVID-19/Pneumonia/TB
